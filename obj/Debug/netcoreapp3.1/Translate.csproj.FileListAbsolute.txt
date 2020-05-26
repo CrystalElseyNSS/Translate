@@ -1,0 +1,13 @@
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\bin\Debug\netcoreapp3.1\Translate.exe
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\bin\Debug\netcoreapp3.1\Translate.deps.json
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\bin\Debug\netcoreapp3.1\Translate.runtimeconfig.json
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\bin\Debug\netcoreapp3.1\Translate.runtimeconfig.dev.json
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\bin\Debug\netcoreapp3.1\Translate.dll
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\bin\Debug\netcoreapp3.1\Translate.pdb
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\obj\Debug\netcoreapp3.1\Translate.csprojAssemblyReference.cache
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\obj\Debug\netcoreapp3.1\Translate.AssemblyInfoInputs.cache
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\obj\Debug\netcoreapp3.1\Translate.AssemblyInfo.cs
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\obj\Debug\netcoreapp3.1\Translate.csproj.CoreCompileInputs.cache
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\obj\Debug\netcoreapp3.1\Translate.dll
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\obj\Debug\netcoreapp3.1\Translate.pdb
+C:\Users\Crystal Elsey\workspace\CSharp\Translate\obj\Debug\netcoreapp3.1\Translate.genruntimeconfig.cache
